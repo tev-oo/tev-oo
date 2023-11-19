@@ -10,7 +10,7 @@ I created this Readme file for development purposes. Soon I will be uploading va
 
 -------------
 
-##🖥 Skills and Experience:
+## 🖥 Skills and Experience:
 * ☁ AWS
 * 📡 Networking (Cisco and Juniper)
 * ⌨ Ansible
