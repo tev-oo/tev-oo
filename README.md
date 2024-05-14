@@ -1,7 +1,7 @@
 ### Hello there 👋, my name is Tevin
 #### I am a Network Engineer.
 
-I am a Network Engineer with a certification from CISCO and Juniper Networks.  I have an extensive background in routing and switching; am skilled in installing and configuring local area networks; and am able to build, maintain, and monitor secured network systems. Currently, I am learning network automation.
+I am a Network Engineer with a certification from CISCO and Juniper Networks.  I have an extensive background in routing and switching; am skilled in installing and configuring local area networks; and can build, maintain, and monitor secured network systems. Currently, I am learning network automation.
 
 
 -------------
